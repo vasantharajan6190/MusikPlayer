@@ -13,7 +13,16 @@
     "react": "~16.11.0",
     "react-dom": "~16.11.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-38.0.2.tar.gz",
-    "react-native-web": "~0.11.7"
+    "react-native-audio-toolkit": "^1.0.6",
+    "react-native-get-music-files": "^2.1.0",
+    "react-native-sound": "^0.11.0",
+    "react-native-web": "~0.11.7",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-router-native": "^5.2.0",
+    "expo-av": "~8.2.1",
+    "expo-permissions": "~9.0.1",
+    "expo-media-library": "~8.2.1"
   },
   "devDependencies": {
     "@babel/core": "^7.8.6",
